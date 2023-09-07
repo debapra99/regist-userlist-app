@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## App view
+ - Registration
+![Regis page](https://github.com/debapra99/regist-userlist-app/assets/46160874/f82d0e29-69b2-4cd1-91fa-b69f8b39b189)
+
+
+- User list
+  ![UserList page](https://github.com/debapra99/regist-userlist-app/assets/46160874/0adcf4ee-2a00-4407-8180-2e03c6260f21)
+
 ## Getting Started
 
 First, run the development server:
