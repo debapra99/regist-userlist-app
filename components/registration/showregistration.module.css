@@ -1,0 +1,28 @@
+.postcard {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.5em;
+    position: relative;
+}
+
+.posttitle {
+    margin-top: 0;
+}
+
+.postbody{
+   margin-bottom: 50px;
+}
+
+.btn {
+    position: absolute;
+    bottom: 10px;
+    left: 30%;
+    right: 30%;
+    font-size: 16px;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    transition: all, 0.5s;
+}

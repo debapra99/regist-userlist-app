@@ -1,0 +1,49 @@
+.newregis {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 5px;
+    margin-top: 50px;
+}
+
+.addregis {
+    width: 45%;
+    max-width: 40rem;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+
+.content {
+ margin: 1rem 0;
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+}
+
+.content label,
+.content input {
+    display: block;
+
+}
+
+.content label {
+    font-weight: bold;
+  flex: 1;
+  color: #464646;
+  margin-bottom: 0.4rem;
+}
+
+.content input {
+    flex: 3;
+    font: inherit;
+    padding: 0.35rem 0.35rem;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+
+.content p {
+    margin: -1px;
+    color: #2a8d37;
+    margin-left: 2px;
+    font-size: small;
+}
