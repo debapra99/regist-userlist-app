@@ -5,7 +5,7 @@ import Registrationlist from './registration-list';
 export default function Registration() {
 
   const [data, setData] = useState([]);
-  
+
   useEffect(() => {
   
     fetch('https://reqres.in/api/register')
@@ -45,6 +45,7 @@ export default function Registration() {
                 </div>
                 <div className={classes.content}>
                   <label htmlFor='pantone_value'>Pantone</label>
+                  <p>Example : 12-1456</p>
                   <input
                   type='text'
                   name="pantone_value"/>
